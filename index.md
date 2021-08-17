@@ -13,6 +13,7 @@ Slides:
 * [Slides](GEDL_slides.pdf)  
 
 Colab assignments:
+* [Library demos] Please check out these amazing libraries: [e2cnn](https://github.com/QUVA-Lab/e2cnn) and [e3nn](https://e3nn.org)
 * [Colab Assigment 1 (SE(2) gconvs)](https://colab.research.google.com/drive/1DfUuk-NZtW5d0toMnL752dYEMSVuNWgM?usp=sharing): Thanks to Gabriele Cesa for providing these! These assignments were used in the [Geometric-Deep Learning Course](https://geometricdeeplearning.com/lectures/)  
 * [Colab Assigment 2 (SE(3) steerable gconvs](https://colab.research.google.com/drive/1ZtV6_U6lt7URvTHC71SwbUNCiEfK6aD1?usp=sharing)
 
