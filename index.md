@@ -7,7 +7,7 @@ Welcome to the public page for the mini-course on Group Equivariant Deep Learnin
 *Erik Bekkers*
 
 Lecture notes:
-* [Lecture notes](gedl_lecture_notes.pdf)
+* [Lecture notes](GroupConvLectureNotes.pdf)
 
 Slides:
 * [Slides part I](gedl_lecture_1_part_I.pdf)  
