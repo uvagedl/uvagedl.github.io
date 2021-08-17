@@ -14,5 +14,5 @@ Slides:
 
 Colab assignments:
 * [Colab Assigment 1 (SE(2) gconvs)](https://colab.research.google.com/drive/1DfUuk-NZtW5d0toMnL752dYEMSVuNWgM?usp=sharing): Thanks to Gabriele Cesa for providing these! These assignments were used in the [Geometric-Deep Learning Course](https://geometricdeeplearning.com/lectures/)  
-* [Colab Assigment 2 (SE(3) steerable gconvs](missing_link)
+* [Colab Assigment 2 (SE(3) steerable gconvs](https://colab.research.google.com/drive/1ZtV6_U6lt7URvTHC71SwbUNCiEfK6aD1?usp=sharing)
 
