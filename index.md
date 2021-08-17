@@ -10,9 +10,7 @@ Lecture notes:
 * [Lecture notes](GroupConvLectureNotes.pdf)
 
 Slides:
-* [Slides part I](gedl_lecture_1_part_I.pdf)  
-* [Slides part II](gedl_lecture_1_part_II.pdf)  
-* [Slides part III](gedl_lecture_1_part_III.pdf)  
+* [Slides](GEDL_slides.pdf)  
 
 Colab assignments:
 * [Colab Assigment 1 (SE(2) gconvs)](https://colab.research.google.com/drive/1DfUuk-NZtW5d0toMnL752dYEMSVuNWgM?usp=sharing): Thanks to Gabriele Cesa for providing these! These assignments were used in the [Geometric-Deep Learning Course](https://geometricdeeplearning.com/lectures/)  
