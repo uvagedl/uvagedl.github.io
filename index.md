@@ -11,7 +11,7 @@ Lecture notes:
 
 Slides:
 * [Slides](GEDL_slides.pdf)  
-* [Slides talk at Lorentz Center](2021-10-16-Lorentz-Center.pdf)
+* [Slides talk at Lorentz Center](2021-10-16 - Lorentz Center.pdf)
 
 Colab assignments:
 * [Library demos] Please check out these amazing libraries: [e2cnn](https://github.com/QUVA-Lab/e2cnn) and [e3nn](https://e3nn.org)
