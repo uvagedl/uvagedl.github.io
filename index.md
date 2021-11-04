@@ -9,7 +9,7 @@ Welcome to the public page for the mini-course on Group Equivariant Deep Learnin
 Lecture notes:
 * [Lecture notes](GroupConvLectureNotes.pdf)
 
-Slides:
+Slides and lecture recording:
 * [Slides](GEDL_slides.pdf) and corresponding [link to recorded talk](https://geometric-deep-learning.compute.dtu.dk/talks-and-materials/)
 * [Slides talk at Lorentz Center](2021-10-16 - Lorentz Center.pdf)
 
