@@ -6,6 +6,12 @@ Welcome to the public page for the mini-course on Group Equivariant Deep Learnin
 
 *Erik Bekkers*
 
+<br/><br/>
+
+![](/lnandslides.gif)
+
+<br/><br/>
+
 Lecture notes:
 * [Lecture notes](GroupConvLectureNotes.pdf)
 
