@@ -12,6 +12,18 @@ Welcome to the public page for the mini-course on Group Equivariant Deep Learnin
 
 <br/><br/>
 
+Youtube playlist:
+* [Youtube playlist](https://youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd)
+
+Lecture slide deck:
+* [Lecture 1.1](lectures_pdf/Lecture_1_1_Motivation.pdf)
+* [Lecture 1.2](lectures_pdf/Lecture_1_2_GroupTheory.pdf)
+* [Lecture 1.3](lectures_pdf/Lecture_1_3_RegularGroupConvolutions.pdf)
+* [Lecture 1.4](lectures_pdf/Lecture_1_4_Example.pdf)
+* [Lecture 1.5](lectures_pdf/Lecture_1_5_History.pdf)
+* [Lecture 1.6](lectures_pdf/Lecture_1_6_GroupTheory.pdf)
+* [Lecture 1.7](lectures_pdf/Lecture_1_7_GConvsAreAllYouNeed.pdf)
+
 Lecture notes:
 * [Lecture notes](GroupConvLectureNotes.pdf)
 
