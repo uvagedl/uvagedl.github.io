@@ -16,29 +16,30 @@ Youtube playlist:
 * [Youtube playlist](https://youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd)
 
 Lecture slide deck:
-* [Lecture 1.1](lectures_pdf/Lecture_1_1_Motivation.pdf)
-* [Lecture 1.2](lectures_pdf/Lecture_1_2_GroupTheory.pdf)
-* [Lecture 1.3](lectures_pdf/Lecture_1_3_RegularGroupConvolutions.pdf)
-* [Lecture 1.4](lectures_pdf/Lecture_1_4_Example.pdf)
-* [Lecture 1.5](lectures_pdf/Lecture_1_5_History.pdf)
-* [Lecture 1.6](lectures_pdf/Lecture_1_6_GroupTheory.pdf)
-* [Lecture 1.7](lectures_pdf/Lecture_1_7_GConvsAreAllYouNeed.pdf)
-
-* [Lecture 2.1](lectures_pdf/Lecture_2_1_SteerableBasis.pdf)
-* [Lecture 2.2](lectures_pdf/Lecture_2_2_RegularGConvInSteerableBasis.pdf)
-* [Lecture 2.3](lectures_pdf/Lecture_2_3_GroupTheoryIrrepsFourier.pdf)
-* [Lecture 2.4](lectures_pdf/Lecture_2_4_GroupTheoryFeatureFields.pdf)
-* [Lecture 2.5](lectures_pdf/Lecture_2_5_SteerableGConvs.pdf)
-* [Lecture 2.6](lectures_pdf/Lecture_2_6_ActivationFunctions.pdf)
-* [Lecture 2.7](lectures_pdf/Lecture_2_7_HarmonicNetworks.pdf)
-
-* [Lecture 3.1](lectures_pdf/Lecture_3_1_Motivation.pdf)
-* [Lecture 3.2](lectures_pdf/Lecture_3_2_EquivariantMessagePassing.pdf)
-* [Lecture 3.3](lectures_pdf/Lecture_3_3_ConditionalLinear.pdf)
-* [Lecture 3.4](lectures_pdf/Lecture_3_4_GroupTheorySO3IrrepsClebschGordan.pdf)
-* [Lecture 3.5](lectures_pdf/Lecture_3_5_Literature3DSteerable.pdf)
-* [Lecture 3.6](lectures_pdf/Lecture_3_6_Literature3DRegular.pdf)
-* [Lecture 3.7](lectures_pdf/Lecture_3_7_GaugeEquivariant.pdf)
+* Lecture 1: Regular group convolutional neural networks
+  * [Lecture 1.1](lectures_pdf/Lecture_1_1_Motivation.pdf)
+  * [Lecture 1.2](lectures_pdf/Lecture_1_2_GroupTheory.pdf)
+  * [Lecture 1.3](lectures_pdf/Lecture_1_3_RegularGroupConvolutions.pdf)
+  * [Lecture 1.4](lectures_pdf/Lecture_1_4_Example.pdf)
+  * [Lecture 1.5](lectures_pdf/Lecture_1_5_History.pdf)
+  * [Lecture 1.6](lectures_pdf/Lecture_1_6_GroupTheory.pdf)
+  * [Lecture 1.7](lectures_pdf/Lecture_1_7_GConvsAreAllYouNeed.pdf)
+* Lecture 2: Steeragble group convolutional neural networks
+  * [Lecture 2.1](lectures_pdf/Lecture_2_1_SteerableBasis.pdf)
+  * [Lecture 2.2](lectures_pdf/Lecture_2_2_RegularGConvInSteerableBasis.pdf)
+  * [Lecture 2.3](lectures_pdf/Lecture_2_3_GroupTheoryIrrepsFourier.pdf)
+  * [Lecture 2.4](lectures_pdf/Lecture_2_4_GroupTheoryFeatureFields.pdf)
+  * [Lecture 2.5](lectures_pdf/Lecture_2_5_SteerableGConvs.pdf)
+  * [Lecture 2.6](lectures_pdf/Lecture_2_6_ActivationFunctions.pdf)
+  * [Lecture 2.7](lectures_pdf/Lecture_2_7_HarmonicNetworks.pdf)
+* Lecture 3: Equivariant graph neural networks
+  * [Lecture 3.1](lectures_pdf/Lecture_3_1_Motivation.pdf)
+  * [Lecture 3.2](lectures_pdf/Lecture_3_2_EquivariantMessagePassing.pdf)
+  * [Lecture 3.3](lectures_pdf/Lecture_3_3_ConditionalLinear.pdf)
+  * [Lecture 3.4](lectures_pdf/Lecture_3_4_GroupTheorySO3IrrepsClebschGordan.pdf)
+  * [Lecture 3.5](lectures_pdf/Lecture_3_5_Literature3DSteerable.pdf)
+  * [Lecture 3.6](lectures_pdf/Lecture_3_6_Literature3DRegular.pdf)
+  * [Lecture 3.7](lectures_pdf/Lecture_3_7_GaugeEquivariant.pdf)
 
 Lecture notes (work in progress...):
 * [Lecture notes](GroupConvLectureNotes.pdf)
