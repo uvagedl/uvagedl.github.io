@@ -12,6 +12,9 @@ Welcome to the public page for the mini-course on Group Equivariant Deep Learnin
 
 <br/><br/>
 
+Tutorials and other deep learning topics:
+* See [Deep Learning 2 Course Website](https://uvadl2c.github.io) for our GEDL tutorials, but also for materials on other interesting topics such as Bayesian Deep Learning, Deep Probabilstic Models, Causality, Dynamical Systems, etc. Please check them out as well!
+
 Youtube playlist:
 * [Youtube playlist](https://youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd)
 
