@@ -2,9 +2,11 @@
 
 ## UvA - An Introduction to Group Equivariant Deep Learning
 
-Welcome to the public page for the mini-course on Group Equivariant Deep Learning. The course is currently still a work in progress, so please forgive me for the occasional sloppyness in the provided materials. In the upcoming months I will regularly update them. The most important piece of material in this course are the lecture notes. 
+Welcome to the public page for the mini-course on Group Equivariant Deep Learning. The course is still under development, in the upcoming months I will regularly update them. The most important piece of material in this course are the lecture notes. 
 
-*Erik Bekkers*
+*Erik Bekkers* <br/>
+*[Amsterdam Machine Learning Lab (AMLab)](http://amlab.science.uva.nl/)* <br/>
+*University of Amsterdam*
 
 <br/><br/>
 
