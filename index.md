@@ -20,13 +20,13 @@ Youtube playlist:
 
 Lecture slide deck:
 * Lecture 1: Regular group convolutional neural networks
-  * [Lecture 1.1](lectures_pdf/Lecture_1_1_Motivation.pdf)
-  * [Lecture 1.2](lectures_pdf/Lecture_1_2_GroupTheory.pdf)
-  * [Lecture 1.3](lectures_pdf/Lecture_1_3_RegularGroupConvolutions.pdf)
-  * [Lecture 1.4](lectures_pdf/Lecture_1_4_Example.pdf)
-  * [Lecture 1.5](lectures_pdf/Lecture_1_5_History.pdf)
-  * [Lecture 1.6](lectures_pdf/Lecture_1_6_GroupTheory.pdf)
-  * [Lecture 1.7](lectures_pdf/Lecture_1_7_GConvsAreAllYouNeed.pdf)
+  * [Lecture 1.1](lectures_pdf/Lecture_1_1_Motivation.pdf) Introduction
+  * [Lecture 1.2](lectures_pdf/Lecture_1_2_GroupTheory.pdf) Group theory: Groups, group product, inverse, action, representation, affine groups G = Rd ⋊ H
+  * [Lecture 1.3](lectures_pdf/Lecture_1_3_RegularGroupConvolutions.pdf) Regular group convolutions: Template matching viewpoing
+  * [Lecture 1.4](lectures_pdf/Lecture_1_4_Example.pdf) SE(2) Equivariant NN Example: histopathology
+  * [Lecture 1.5](lectures_pdf/Lecture_1_5_History.pdf) A brief history of G-CNNs
+  * [Lecture 1.6](lectures_pdf/Lecture_1_6_GroupTheory.pdf) Group Theory: Transitive action, homogeneous space, quotient space
+  * [Lecture 1.7](lectures_pdf/Lecture_1_7_GConvsAreAllYouNeed.pdf) Group convolutions are all you need! (Equivariant linear layers between feature maps are group convolutions)
 * Lecture 2: Steeragble group convolutional neural networks
   * [Lecture 2.1](lectures_pdf/Lecture_2_1_SteerableBasis.pdf)
   * [Lecture 2.2](lectures_pdf/Lecture_2_2_RegularGConvInSteerableBasis.pdf)
