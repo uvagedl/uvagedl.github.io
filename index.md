@@ -12,9 +12,10 @@ Welcome to the public page for the mini-course on Group Equivariant Deep Learnin
 
 <br/><br/>
 
-Tutorials and other deep learning topics:
+### CODE: Tutorials and other deep learning topics
 * See [Deep Learning 2 Course Website](https://uvadl2c.github.io) for our GEDL tutorials, but also for materials on other interesting topics such as Bayesian Deep Learning, Deep Probabilstic Models, Causality, Dynamical Systems, etc. Please check them out as well!
 
+### Video lectures
 Youtube playlist:
 * [Youtube playlist](https://youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd)
 
@@ -46,8 +47,10 @@ Lecture slide deck:
   * [Lecture 3.6](lectures_pdf/Lecture_3_6_Literature3DRegular.pdf) - Literature: Regular (as opposed to steerable) equivariant graph NNs
   * [Lecture 3.7](lectures_pdf/Lecture_3_7_GaugeEquivariant.pdf) - Literature: Gauge equivariant graph NNs
 
-Lecture notes (work in progress...):
-* [Lecture notes](GroupConvLectureNotes.pdf)
+### Lecture notes
+* [Lecture notes](GroupConvLectureNotes.pdf) (work in progress...)
+
+### Other materials
 
 Slides and lecture recording (summer school):
 * [Slides](GEDL_slides.pdf) and corresponding [link to recorded talk](https://geometric-deep-learning.compute.dtu.dk/talks-and-materials/)
