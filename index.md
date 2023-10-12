@@ -14,10 +14,23 @@ Welcome to the public page for the mini-course on Group Equivariant Deep Learnin
 
 <br/><br/>
 
-### CODE: Tutorials and other deep learning topics
+______________
+## Autumn School on Scientific Machine Learning and Dynamical Systems
+For participants of the [Autumn School on Scientific Machine Learning and Dynamical Systems](https://www.cwi.nl/nl/events/cwi-research-semester-programs/autumn-school-scientific-machine-learning-semester-programme/), see 
+* [Tutorial on group convolutions with vector field data](https://colab.research.google.com/drive/1JrGVMd-QMsq-mYgqKmhgOrHCKJrXxn_j?usp=sharing).
+
+Useful libraries:
+* [escnn](https://github.com/QUVA-Lab/escnn): Complete library for E(n) equivariant networks for data on grids in 2D and 3D!
+* [e3nn](https://e3nn.org/): Steerable/tensor field methods for 3D point clouds. Central is the Clebsch-Gordan tensor product and related operations.
+* [e2cnn](https://github.com/ebekkers/se2cnn): My own stripped down version of regular group convolutions with code for point-wise SO(2) Fourier transforms (switching between regular and irreducible representations).
+* [ponita](https://github.com/ebekkers/ponita): Also my own code: latest code for 3D point clouds using regular group convolutions over position-orientation space. As expressive as steerable methods but much faster! And easy to use, check it out! (Benchmarked on interatomic energy and force prediction, n-body interacting particle systems, and denoising diffusion models for generating 3D molacular representations.
+
+______________
+
+## CODE: Tutorials and other deep learning topics
 * See [Deep Learning 2 Course Website](https://uvadl2c.github.io) for our GEDL tutorials, but also for materials on other interesting topics such as Bayesian Deep Learning, Deep Probabilstic Models, Causality, Dynamical Systems, etc. Please check them out as well!
 
-### Video lectures
+## Video lectures
 Youtube playlist:
 * [Youtube playlist](https://youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd)
 
@@ -49,10 +62,10 @@ Lecture slide deck:
   * [Lecture 3.6](lectures_pdf/Lecture_3_6_Literature3DRegular.pdf) - Literature: Regular (as opposed to steerable) equivariant graph NNs
   * [Lecture 3.7](lectures_pdf/Lecture_3_7_GaugeEquivariant.pdf) - Literature: Gauge equivariant graph NNs
 
-### Lecture notes
+## Lecture notes
 * [Lecture notes](GroupConvLectureNotes.pdf) (work in progress...)
 
-### Other materials
+## Other materials
 
 Slides and lecture recording (summer school):
 * [Slides](GEDL_slides.pdf) and corresponding [link to recorded talk](https://geometric-deep-learning.compute.dtu.dk/talks-and-materials/)
