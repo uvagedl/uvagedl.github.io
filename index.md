@@ -65,6 +65,11 @@ Lecture slide deck:
 ## Lecture notes
 * [Lecture notes](GroupConvLectureNotes.pdf) (work in progress...)
 
+The lecture notes that I wrote when preparing the course are a bit sloppy and contain various typos (my apologies for still not having found the time to fix it). Instead I **highly recommend** the UvA Master AI thesis by Lars Veefkind. It contains all the essentials for learning about group convolutions, and includes representation theory (Peter-Weyl theorem, Schurr's Lemma etc.) presented in an accessible and manner!
+
+* [Thesis](Learning_the_Degree_of_Equivariance_for_Steerable_CNNs_fixed_typo_compressed.pdf) by Lars Veefkind on *A Probabilistic Approach to Learning the Degree of Equivariance in Steerable CNNs*.
+
+  
 ## Other materials
 
 Slides and lecture recording (summer school):
